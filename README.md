@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/danbruh228/lab02/badge.svg?branch=test)](https://coveralls.io/github/danbruh228/lab02?branch=test)
-
 ## Homework
 
 ### Part I
